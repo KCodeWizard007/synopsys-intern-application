@@ -35,5 +35,4 @@ VLSI RTL Design & Verification Using Synopsys Tool – VLSIGuru
 
 🏆 Achievements
 GATE ECE Qualified (2024, 2025)
-
 JEE Main 2020: AIR 22,381 (Top 2% among 11.46 lakh candidates)
