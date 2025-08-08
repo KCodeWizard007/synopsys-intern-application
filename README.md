@@ -3,9 +3,9 @@
 **📍 Location:** New Delhi, India  
 **📧 Email:** [ankitkaswan_24spd08@dtu.ac.in](mailto:ankitkaswan_24spd08@dtu.ac.in)  
 **📱 Phone:** +91-7296802743  
-**🔗 Links:** [LinkedIn](https://www.linkedin.com/in/ankit-kaswan-220373219/) **|** [**LeetCode :**](https://leetcode.com/u/ankitkaswan203/) **|** [**GeeksforGeeks :**](https://www.geeksforgeeks.org/user/ankitkaszs3u/)  
+**🔗 Links:** [LinkedIn](https://www.linkedin.com/in/ankit-kaswan-220373219/) **|** [**LeetCode**](https://leetcode.com/u/ankitkaswan203/) **|** [**GeeksforGeeks**](https://www.geeksforgeeks.org/user/ankitkaszs3u/)  
 
-📄 **Resume:** [Click to View]([https://drive.google.com/file/d/1xJhLEDpkxnsOZX0W9ApMA_mEskiM0BZT/view?usp=sharing](https://drive.google.com/file/d/1R_oTySgdOF28dRJjqYN_HHL9me-wyVwA/view?usp=sharing))
+📄 **Resume:** [Click to View](https://drive.google.com/drive/home)
 
 ---
 
