@@ -9,7 +9,6 @@ Name: Ankit Kaswan
 
 🎯 About Me
 I am currently pursuing my M.Tech in Signal Processing & Digital Design at DTU (2024–26) and recently graduated from NSUT in Electronics & Communication Engineering (2024).
-
 I enjoy building digital systems from scratch, working with C/C++, Verilog, and EDA tools, and exploring RTL-to-GDSII flows. My problem-solving ability is backed by 400+ coding problems solved on competitive programming platforms.
 
 💡 Why I’m a Good Fit
